@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: query
-          image: stephengrider/query
+          image: bashiru/query
 ---
 apiVersion: v1
 kind: Service
